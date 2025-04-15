@@ -1,0 +1,2 @@
+# LicenseSentry
+Subdomain checker
