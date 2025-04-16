@@ -1,4 +1,4 @@
-# LicenseSentry
+# Subdomain Checker
 
 ![License Key Validation](https://github.com/user-attachments/assets/5563332c-2f19-4835-938b-b3aacbe62342)
 
